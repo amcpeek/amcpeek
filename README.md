@@ -14,7 +14,7 @@ I am looking for a new role to continue developing my skills as a software engin
 
 
 ## My App Academy Full Stack Projects
-### [AmBnB] (https://mcpeek-airbnb.onrender.com)
+### [AmBnB](https://mcpeek-airbnb.onrender.com)
 [github](https://github.com/amcpeek/API-Project)
 * JavaScript, Express.js, Sequelize, React, Redux  
 * An Airbnb clone with a focus on A-frame-shaped homes
