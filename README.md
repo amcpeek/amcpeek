@@ -13,7 +13,9 @@ I am looking for a new role to continue developing my skills as a software engin
 ## Projects I completed at App Academy
 ## AmBnB
 https://mcpeek-airbnb.onrender.com
-(JavaScript, Express.js, Sequelize, React, Redux )                                                                   
+#
+(JavaScript, Express.js, Sequelize, React, Redux )    
+#
 An Airbnb clone with a focus on A-frame-shaped homes
 Constructed an Express backend filter feature using Sequelize for home prices and regions of the US
 Focused on pixel-perfect CSS and React site-wide using font-awesome and google icon libraries
