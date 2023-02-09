@@ -1,7 +1,8 @@
 
 # Software Developer 
 ## App Academy Grad 
-### JavaScript | Python | React | Redux | Node.js | Express.js | PostgreSQL | Flask | HTML5 | CSS - Ed Tech Implementation Leader  - STEM Education Leader
+### JavaScript | Python | React | Redux | Node.js | Express.js | PostgreSQL | Flask | HTML5 | CSS
+## Ed Tech Implementation Leader  -  STEM Education Leader
 ## [Connect On LinkedIn](https://www.linkedin.com/in/annika-mcpeek/)
 
 My two passions have always been to build solutions that help others and teach others the skills needed to become the next generation of creators and users of technology. 
