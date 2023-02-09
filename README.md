@@ -16,8 +16,8 @@ I am looking for a new role to continue developing my skills as a software engin
 
 ## My App Academy Full Stack Projects
 ### [AmBnB Live Site](https://mcpeek-airbnb.onrender.com)
-[github](https://github.com/amcpeek/API-Project)
 *JavaScript, Express.js, Sequelize, React, Redux*
+[github](https://github.com/amcpeek/API-Project)
 * An Airbnb clone with a focus on A-frame-shaped homes
 * Constructed an Express backend filter feature using Sequelize for home prices and regions of the US
 * Focused on pixel-perfect CSS and React site-wide using font-awesome and google icon libraries
@@ -25,16 +25,16 @@ I am looking for a new role to continue developing my skills as a software engin
 
 
 ### [Fire Starter Live Site](https://firestarter.onrender.com)
-[github](https://github.com/no8cai/firestarter)
 *Python, Flask, SQLAlchemy, JavaScript, React, Redux*
+[github](https://github.com/no8cai/firestarter)
 * Led development of planning API routes, user stories, and wireframes for the group project
 * Developed the Single Project page calculating total funding toward projects in React graphs and visuals that live update
 * Devised a Python algorithm to seed 108 pledges (similar to transaction receipt)  using SQLAlchemy into the Flask framework and designed the database structure for many-to-many relationships
 * Used a single form in React for frontend creation and update validations for each feature supplied with backend error messages keeping the code DRYer and reducing bugs
 
 ### [Sauna Live Site](https://sauna.onrender.com)
-[github](https://github.com/amcpeek/sauna )
 *Python, Flask, SQLAlchemy, JavaScript, React, Redux*
+[github](https://github.com/amcpeek/sauna)
 * Led development of planning API routes, user stories, and wireframes for the group project
 * Designed the SQLAlchemy database structure  through agile development for a single company app
 * Implemented a variety of CSS Visualizations of projects and tasks aligned to the Asana workflow
