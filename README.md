@@ -1,4 +1,7 @@
 ### Hi there 👋
+## This is Annika
+## I am awesome
+
 
 <!--
 **amcpeek/amcpeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
