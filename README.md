@@ -1,5 +1,7 @@
-### Annika McPeek
-## Software Developer - App Academy Grad - JavaScript | Python | React | Redux | Node.js | Express.js | PostgreSQL | Flask | HTML5 | CSS - Ed Tech Implementation Leader  - STEM Education Leader
+
+# Software Developer 
+## App Academy Grad 
+### JavaScript | Python | React | Redux | Node.js | Express.js | PostgreSQL | Flask | HTML5 | CSS - Ed Tech Implementation Leader  - STEM Education Leader
 * https://www.linkedin.com/in/annika-mcpeek/
 
 My two passions have always been to build solutions that help others and teach others the skills needed to become the next generation of creators and users of technology. 
@@ -12,9 +14,8 @@ I am looking for a new role to continue developing my skills as a software engin
 
 
 ## My App Academy Full Stack Projects
-## AmBnB
-* https://mcpeek-airbnb.onrender.com
-* https://github.com/amcpeek/API-Project 
+### [AmBnB] (https://mcpeek-airbnb.onrender.com)
+[github](https://github.com/amcpeek/API-Project)
 * JavaScript, Express.js, Sequelize, React, Redux  
 * An Airbnb clone with a focus on A-frame-shaped homes
 Constructed an Express backend filter feature using Sequelize for home prices and regions of the US
